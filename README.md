@@ -1,5 +1,5 @@
 # Uart_dma_example_S32K358
-The code was edit base on <b>LpuartFlexio_Uart_Ip_Example_S32K358.
+The code was edit based on <b>LpuartFlexio_Uart_Ip_Example_S32K358.
 ## Environment
 * S32DS version: 3.5
 * RTD version: S32K3_RTD_4_0_0_D2311
